@@ -1,0 +1,33 @@
+Olá, pessoal! Eu sou o Odir e você está no While(True): Podcast() — o seu ponto de encontro para bugs, soluções e muito Python.
+
+No episódio de hoje, vamos voltar no tempo para falar sobre um dos momentos mais importantes da história da programação: o nascimento da linguagem Python. Vamos descobrir quando surgiu, onde surgiu, quem foi o criador, como era o mundo da informática na época e como essa linguagem incrível se tornou o que conhecemos hoje.
+
+Você sabia que o nome Python não tem nada a ver com a cobra?
+O criador, Guido van Rossum, era fã de um programa britânico de comédia chamado “Monty Python’s Flying Circus”. Ele queria um nome curto, único e levemente misterioso — e Python caiu como uma luva.
+
+A história começa no final dos anos 1980, no Centrum Wiskunde & Informatica, na Holanda. Guido van Rossum trabalhava com a linguagem ABC, voltada para ensino, mas sentia falta de algo mais flexível e prático. Durante o final de 1989, enquanto buscava um projeto para se ocupar nas férias de Natal, decidiu criar sua própria linguagem de programação.
+
+O mundo da informática naquela época era muito diferente: a internet comercial ainda estava engatinhando, e linguagens como C, Pascal, Perl e C++ dominavam o cenário. Programar não era tão acessível — exigia máquinas caras e conhecimento técnico aprofundado.
+
+Guido queria criar algo que fosse fácil de ler, simples de escrever e que estimulasse boas práticas de programação. Ele se inspirou na simplicidade do ABC, na robustez do C e na produtividade das linguagens de script.
+
+Em fevereiro de 1991, Guido publicou a primeira versão oficial: Python 0.9.0. Já trazia recursos que hoje consideramos básicos, como funções, exceções, tipos dinâmicos e módulos.
+
+Ao longo dos anos 1990 e 2000, Python foi ganhando adeptos na comunidade acadêmica e entre entusiastas de automação. Mas foi a partir de 2008, com o lançamento do Python 3.0, que a linguagem deu um salto de evolução — com sintaxe mais moderna, melhorias internas e um ecossistema cada vez mais robusto.
+
+Hoje, Python é usado em praticamente todas as áreas da tecnologia: inteligência artificial, análise de dados, automação, web, ciência, jogos e muito mais.
+
+
+Uma das filosofias do Python está registrada no famoso Zen of Python, acessível pelo comando import this.
+Entre os princípios, encontramos frases como: “Beautiful is better than ugly” (Belo é melhor que feio) e “Simple is better than complex” (Simples é melhor que complexo) — que refletem a essência da linguagem.
+
+
+Atualmente, o Python está entre as linguagens mais populares do mundo, liderando rankings como o TIOBE Index e o PYPL. Sua importância é enorme porque ela consegue unir legibilidade, comunidade ativa e uma biblioteca gigantesca.
+No mercado, Python brilha principalmente em áreas como ciência de dados, machine learning, desenvolvimento web e automação de processos.
+E a tendência para os próximos anos é que ele continue crescendo, especialmente com o avanço da inteligência artificial e a demanda por soluções rápidas e eficientes.
+
+
+Esse foi o episódio de hoje!
+Espero que você tenha gostado dessa viagem pela história do Python.
+E não se esqueça: código limpo, café quente e persistência são as chaves para qualquer programador.
+Nos vemos semana que vem, no episódio “Python, por onde começar”.
